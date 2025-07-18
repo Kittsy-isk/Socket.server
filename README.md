@@ -7,4 +7,4 @@ Isabela Araujo Da Silva,
 Jhonath MIranda De Sousa,
 Luciano Eloi Diniz Júnior,
 Roberto Vínicius da Conceição Santos,
-Saulo Dourado.
+Saulo Wendel.
